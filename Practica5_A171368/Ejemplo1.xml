@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/Alondra%20Diaz/Desktop/9no%20Semestre/prac/Practica5_A171368/Ejemplo1.xsl"?>
+<canciones>
+
+    <cancion>
+      <nombre>Únicos</nombre>
+      <cantante>Siddhartha</cantante>
+      <album>Únicos</album>
+      <año>2016</año>
+      </cancion>
+    
+      <cancion>
+      <nombre>Ayer me dijo un ave</nombre>
+      <cantante>Caifanes </cantante>
+      <album>El nervio del volcán</album>
+      <año>1994</año>
+    </cancion>
+    
+      <cancion>
+      <nombre>Arrullo de estrellas</nombre>
+      <cantante>Zoé</cantante>
+      <album>Prográmaton</album>
+      <año>2013</año>
+    </cancion>
+    
+</canciones>
